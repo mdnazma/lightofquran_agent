@@ -62,7 +62,7 @@ def export_assets_zip():
 
 # --------- Streamlit App UI ---------
 def run_streamlit_ui():
-    st.title("🕌 LightofQuran AI Agent")
+    st.title("🕌 Test Load – LightofQuran Agent Working")
     st.write("Auto-generate cinematic Qur’an recitation videos with text overlays.")
 
     surah_name = st.text_input("Enter Surah Name (e.g., Al-Adiyat)")
